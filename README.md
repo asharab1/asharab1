@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @asharab1
 - 👀 I’m interested in 2.O web development 
 - 🌱 I’m currently learning ...full stack web development 
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me ...masharab309@gmail.com
 https://web.facebook.com/m.asharab.1
 
